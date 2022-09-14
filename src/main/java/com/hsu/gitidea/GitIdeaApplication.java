@@ -10,6 +10,7 @@ public class GitIdeaApplication {
         System.out.println("修改后再提交");
         SpringApplication.run(GitIdeaApplication.class, args);
         System.out.println("dev branch change...");
+        System.out.println("dev change commit...commit");
     }
 
 }
